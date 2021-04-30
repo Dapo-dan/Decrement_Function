@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Decrement Function</string>
+    <string name="textView">0 Clicks</string>
+    <string name="increment">Increment</string>
 </resources>
